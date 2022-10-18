@@ -3,9 +3,6 @@
 
 #include "Functions.h"
 #include "List.h"
-#include "Mergesort.h"
-#include "Quicksort.h"
-#include "Insertionsort.h"
 #include <string>
 #include <vector>
 template<typename T>
